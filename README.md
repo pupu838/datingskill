@@ -19,11 +19,11 @@
 
 ```bash
 # 方式一：通过 skills CLI（推荐）
-npx skills add <your-username>/datingskill
+npx skills add pupu838/-.skill
 
 # 方式二：手动安装
-git clone https://github.com/<your-username>/datingskill.git
-cp -r datingskill ~/.claude/skills/dating-tips/
+git clone https://github.com/pupu838/-.skill.git
+cp -r ./-.skill ~/.claude/skills/dating-tips/
 ```
 
 ### 环境要求
